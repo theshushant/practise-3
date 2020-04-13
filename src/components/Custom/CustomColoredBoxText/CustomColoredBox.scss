@@ -1,0 +1,16 @@
+.colored-box {
+  height: 1.5rem;
+  width: 1.5rem;
+  margin-right: 0.5rem;
+}
+
+.custom-colored-box-text {
+  display: flex;
+  align-items: flex-start;
+  margin: 1rem;
+}
+
+.custom-colored-box-text p {
+  font-size: 1.2rem;
+  font-weight: lighter;
+}

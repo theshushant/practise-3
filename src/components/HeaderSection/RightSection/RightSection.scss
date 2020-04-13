@@ -1,0 +1,13 @@
+.right-section {
+  float: right;
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.menu-options {
+  height: 3rem;
+  width: 3rem;
+  cursor: pointer;
+  background-color: red;
+  margin: 1rem;
+}

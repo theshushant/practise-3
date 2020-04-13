@@ -1,0 +1,44 @@
+.test-section {
+  background-color: cornsilk;
+  position: fixed;
+  top: 6.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 1rem;
+}
+
+.icon {
+  align-self: flex-start;
+}
+
+.test-section .custom-label {
+  align-self: center;
+}
+
+.test-details {
+  display: flex;
+  margin: 1rem;
+}
+
+.links {
+  display: flex;
+  align-items: flex-end;
+}
+
+.link {
+  font-size: 1.2rem;
+  margin: 0 4rem;
+  color: blue;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.link:hover {
+  color: red;
+}
+
+.test-properties {
+  margin: 0 1rem;
+  box-sizing: border-box;
+}

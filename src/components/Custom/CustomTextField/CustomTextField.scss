@@ -1,0 +1,12 @@
+.custom-text-field {
+  display: flex;
+  justify-content: space-around;
+}
+
+.custom-text-field input {
+  margin-left: 1rem;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  border: 0.1rem solid #c0c0c0;
+  flex: 1;
+}

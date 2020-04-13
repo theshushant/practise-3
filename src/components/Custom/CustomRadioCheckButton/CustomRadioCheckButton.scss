@@ -1,0 +1,14 @@
+.custom-radio-button {
+  display: flex;
+}
+
+.options {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex: 1;
+}
+
+.option {
+  margin: 0.5rem;
+}
